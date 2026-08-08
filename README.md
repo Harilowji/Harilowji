@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Harilowji 👋
 
-<!--
-**Harilowji/Harilowji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Software Engineering Student** @ FPT University 
+🌱 I'm currently focusing on **AI Agents, Desktop App Development, and Algorithms**.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+* **Languages:** JavaScript, TypeScript, C++, Java
+* **Frontend/Desktop:** Tauri, Electron
+* **Backend/Workflow:** Node.js, n8n, LangGraph
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Highlighted Projects
+* **[Tên dự án Hackathon]:** An AI Agent solution built with LangGraph, integrated via n8n, and packaged as a desktop app using Tauri/Electron.
+* **[Tên Tool Flowchart]:** A tool designed to visualize code flowcharts to enhance competitive programming mindset.
+
+### 📈 Stats & Competitive Programming
+* Active on **LeetCode** (participating in Weekly Contests)
+
+📫 **Reach me at:** [Link LinkedIn của bạn] | hloitran2007@gmail.com
