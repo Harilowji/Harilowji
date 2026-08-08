@@ -8,10 +8,6 @@
 * **Frontend/Desktop:** Tauri, Electron
 * **Backend/Workflow:** Node.js, n8n, LangGraph
 
-### 🚀 Highlighted Projects
-* **[Tên dự án Hackathon]:** An AI Agent solution built with LangGraph, integrated via n8n, and packaged as a desktop app using Tauri/Electron.
-* **[Tên Tool Flowchart]:** A tool designed to visualize code flowcharts to enhance competitive programming mindset.
-
 ### 📈 Stats & Competitive Programming
 * Active on **LeetCode** (participating in Weekly Contests)
 
