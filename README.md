@@ -1,6 +1,6 @@
 <div align="center">
   <a target="_blank" href="https://github.com/Harilowji">
-    <img src="https://raw.githubusercontent.com/Harilowji/Harilowji/main/.github/workflows/img/waguri_header.jpg" width="85%" style="border-radius: 12px;" alt="Waguri Kaoruko Banner" />
+    <img src="https://raw.githubusercontent.com/Harilowji/Harilowji/main/.github/workflows/img/waguri_banner.jpg" width="90%" style="border-radius: 14px;" alt="Kaoruko Waguri Banner" />
   </a>
   <br /><br />
   <h2>✨ Hi! 👋 I'm Hải Lợi (Harilowji)! Nice to meet you (ˊ꒳ˋ)! ✨</h2>
@@ -28,7 +28,7 @@
 ## ☕ About me . . .
 
 <a target="_blank" href="https://github.com/Harilowji">
-  <img align="left" width="170" style="border-radius: 20px; margin-right: 22px; margin-bottom: 12px;" src="https://raw.githubusercontent.com/Harilowji/Harilowji/main/.github/workflows/img/waguri_avatar.jpg" alt="Waguri Avatar" />
+  <img align="left" width="165" style="border-radius: 20px; margin-right: 22px; margin-bottom: 15px;" src="https://raw.githubusercontent.com/Harilowji/Harilowji/main/.github/workflows/img/waguri_avatar.jpg" alt="Waguri Chibi Avatar" />
 </a>
 
 <h4>🎓 Software Engineering student at FPT University.</h4>
@@ -44,15 +44,11 @@
 ## 🌸 Waguri's Moodboard . . .
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Harilowji/Harilowji/main/.github/workflows/img/waguri_smile.jpg" width="31%" style="border-radius: 10px;" alt="Waguri Smile" />
+  <img src="https://raw.githubusercontent.com/Harilowji/Harilowji/main/.github/workflows/img/waguri_gleam.jpg" width="31%" style="border-radius: 12px;" alt="Waguri Gleam" />
   &nbsp;
-  <img src="https://raw.githubusercontent.com/Harilowji/Harilowji/main/.github/workflows/img/waguri_poster.jpg" width="31%" style="border-radius: 10px;" alt="Waguri Poster" />
+  <img src="https://raw.githubusercontent.com/Harilowji/Harilowji/main/.github/workflows/img/waguri_blush.jpg" width="31%" style="border-radius: 12px;" alt="Waguri Blush" />
   &nbsp;
-  <img src="https://raw.githubusercontent.com/Harilowji/Harilowji/main/.github/workflows/img/waguri_dance.jpg" width="31%" style="border-radius: 10px;" alt="Waguri Dance" />
-  <br /><br />
-  <img src="https://raw.githubusercontent.com/Harilowji/Harilowji/main/.github/workflows/img/waguri_sweet.jpg" width="47%" style="border-radius: 10px;" alt="Waguri Sweet" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/Harilowji/Harilowji/main/.github/workflows/img/waguri_peace.jpg" width="47%" style="border-radius: 10px;" alt="Waguri Peace" />
+  <img src="https://raw.githubusercontent.com/Harilowji/Harilowji/main/.github/workflows/img/waguri_sleep.jpg" width="31%" style="border-radius: 12px;" alt="Waguri Sleep" />
 </div>
 
 <br />
