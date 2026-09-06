@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there, I'm Lợi (Harilowji) 👋</h1>
+  <h1>Hi there, I'm Hải Lợi (Harilowji) 👋</h1>
   <h3>A passionate Software Engineering student building impactful solutions</h3>
   <img src="https://komarev.com/ghpvc/?username=Harilowji&color=blueviolet&style=flat-square" alt="Profile Views" />
 </div>
