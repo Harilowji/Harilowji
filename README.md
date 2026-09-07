@@ -62,7 +62,7 @@
 
 <p align="center">
   <a target="_blank" href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,cs,py,java,js,ts,react,nodejs,tauri,electron,tailwind,docker,git,vscode,windows,ubuntu&perline=9" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=cpp,c,cs,py,java,js,ts,react,nodejs,tauri,electron,tailwind,docker,git,github,vscode,windows,ubuntu&perline=9" alt="Skills" />
   </a>
 </p>
 
