@@ -1,11 +1,16 @@
 <div align="center">
   <a target="_blank" href="https://github.com/Harilowji">
-    <img src="https://raw.githubusercontent.com/Harilowji/Harilowji/main/.github/workflows/img/waguri_banner.jpg" width="90%" style="border-radius: 14px;" alt="Kaoruko Waguri Banner" />
+    <img src="https://raw.githubusercontent.com/Harilowji/Harilowji/main/.github/workflows/img/waguri_banner.jpg" width="90%" style="border-radius: 14px;" alt="Kaoruko Waguri Manga Banner" />
   </a>
   <br /><br />
   <h2>✨ Hi! 👋 I'm Hải Lợi (Harilowji)! Nice to meet you (ˊ꒳ˋ)! ✨</h2>
-  <p><b>🌸 Software Engineering Student @ FPT University • Waguri Kaoruko's Biggest Fan 🌸</b></p>
   
+  <p align="center">
+    <a href="https://github.com/Harilowji">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=F78FB3&center=true&vCenter=true&width=550&lines=Software+Engineering+Student+%40+FPTU;AI+Agents+%26+Workflow+Automation;Waguri+Kaoruko's+Number+One+Fan+%E2%99%A1;Kaoru+Hana+wa+Rin+to+Saku+%E2%9C%A8" alt="Typing SVG" />
+    </a>
+  </p>
+
   <p>
     <a href="https://komarev.com/ghpvc/?username=Harilowji&color=f78fb3&style=for-the-badge&label=PROFILE%20VIEWS">
       <img src="https://komarev.com/ghpvc/?username=Harilowji&color=f78fb3&style=for-the-badge&label=PROFILE%20VIEWS" alt="Profile Views" />
@@ -66,9 +71,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harilowji&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=f78fb3&icon_color=f78fb3&text_color=c9d1d9" height="175" alt="Harilowji GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Harilowji&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=f78fb3&icon_color=f78fb3&text_color=c9d1d9" height="175" alt="Harilowji GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harilowji&theme=tokyonight&hide_border=true&background=0D1117&ring=f78fb3&fire=f78fb3&currStreakLabel=f78fb3" height="175" alt="Harilowji Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Harilowji&theme=tokyonight&hide_border=true&background=0D1117&ring=f78fb3&fire=f78fb3&currStreakLabel=f78fb3" height="175" alt="Harilowji Streak Stats" />
 </div>
 
 <br />
