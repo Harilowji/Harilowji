@@ -1,6 +1,6 @@
 <div align="center">
   <a target="_blank" href="https://github.com/Harilowji">
-    <img src="https://raw.githubusercontent.com/Harilowji/Harilowji/main/.github/workflows/img/waguri_banner.jpg" width="90%" style="border-radius: 14px;" alt="Kaoruko Waguri Manga Banner" />
+    <img src="https://raw.githubusercontent.com/Harilowji/Harilowji/main/.github/workflows/img/waguri_banner.gif" width="90%" style="border-radius: 14px;" alt="Kaoruko Waguri Animated Banner" />
   </a>
   <br /><br />
   <h2>✨ Hi! 👋 I'm Hải Lợi (Harilowji)! Nice to meet you (ˊ꒳ˋ)! ✨</h2>
