@@ -4,9 +4,9 @@
 <!-- ===================================================================== -->
 
 <div align="center">
-  <!-- === HERO BANNER (SUNG JIN-WOO / SHADOW MONARCH) === -->
+  <!-- === HERO BANNER (I AM ATOMIC - THE EMINENCE IN SHADOW WALLPAPER) === -->
   <a target="_blank" href="https://github.com/Harilowji">
-    <img src=".github/assets/sung_jin_woo_banner.gif" width="100%" alt="Sung Jin-Woo Shadow Monarch Banner" />
+    <img src=".github/assets/shadow_atomic_banner.gif" width="100%" alt="I Am Atomic - The Eminence in Shadow Wallpaper Banner" />
   </a>
   <br />
 
