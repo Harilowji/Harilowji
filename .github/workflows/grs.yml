@@ -23,10 +23,14 @@ jobs:
           path: .github/assets/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Generate Activity Graph
+        run: |
+          curl -sSL "https://github-act-graph.rodriaum.com/graph?username=${{ github.repository_owner }}&theme=high-contrast&hide_border=true&area=true&bg_color=0D1117&color=A855F7&line=7B2CBF&point=00B4D8" -o .github/assets/profile-activity-graph.svg || true
+
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add .github/assets/stats.svg
-          git commit -m "chore(stats): update Sung Jin-Woo hunter stats card" || exit 0
+          git add .github/assets/stats.svg .github/assets/profile-activity-graph.svg
+          git commit -m "chore(stats): update Sung Jin-Woo hunter stats & activity graph" || exit 0
           git push

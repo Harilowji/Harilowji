@@ -91,8 +91,8 @@
 
 <p align="center">
   <br /><br />
-  <!-- Moe Counter (Visitor Counter like Andrew-Velox) -->
-  <img src="https://count.getloli.com/@Harilowji?name=Harilowji&theme=rule34&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=1" alt="Harilowji Visitor Counter" />
+  <!-- Shadow Visitors Counter (Shadow Monarch Purple Theme) -->
+  <img src="https://komarev.com/ghpvc/?username=Harilowji&color=7B2CBF&style=for-the-badge&label=SHADOW+VISITORS" alt="Shadow Visitors Counter" />
   <br /><br />
   <!-- GitHub Readme Stats (Auto-generated to .github/assets/stats.svg or Live API) -->
   <img width="400px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Harilowji&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&bg_color=0D1117&title_color=A855F7&icon_color=00B4D8&text_color=E2E8F0" alt="GitHub Stats" />
@@ -106,10 +106,16 @@
   <img width="400px" src=".github/assets/metrics-activity.svg" alt="Recent Activity Metrics" />
 </p>
 
-<!-- Full-Width Activity Graph (High-Contrast / Shadow Monarch Theme) -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Harilowji&theme=high-contrast&hide_border=true&area=true&bg_color=0D1117&color=A855F7&line=7B2CBF&point=00B4D8" alt="GitHub Activity Graph" />
-
 <br clear="both" />
+
+<!-- Full-Width Activity Graph (High-Contrast / Shadow Monarch Theme) -->
+<div align="center">
+  <a href="https://github.com/Harilowji">
+    <img width="100%" src=".github/assets/profile-activity-graph.svg" alt="GitHub Activity Graph" />
+  </a>
+</div>
+
+<br />
 
 <!-- ===================================================================== -->
 <!--  SHADOW EXTRACTION: CONTRIBUTION GRID SNAKE                         -->
