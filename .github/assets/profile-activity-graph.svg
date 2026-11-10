@@ -24,10 +24,12 @@
   stroke: #00B4D8;
   stroke-width: 6;
   stroke-linecap: round;
+  display: initial;
 }
 .ct-area {
   fill: #e7e7e7;
   fill-opacity: 0.22;
+  display: initial;
 }
 .ct-bar {
   stroke: #00B4D8;
