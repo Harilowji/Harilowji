@@ -31,9 +31,10 @@ jobs:
           plugin_repositories_featured: Harilowji/OmniQuiz, Harilowji/BinBox, Harilowji/coursera-autopilot-pro, Harilowji/spotify-wallpaper-engine-sync
 
       - name: Activity
+        if: ${{ secrets.METRICS_TOKEN != '' }}
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
           filename: .github/assets/metrics-activity.svg
           base: ""
           plugin_activity: yes

@@ -46,8 +46,8 @@
       <img src="https://img.shields.io/badge/SYSTEM_MAIL-hloitran2007%40gmail.com-7B2CBF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email" />
     </a>
     &nbsp;
-    <a href="https://leetcode.com/u/Harilowji" target="_blank">
-      <img src="https://img.shields.io/badge/DUNGEON_RAID-LeetCode-00B4D8?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0D1117" alt="LeetCode" />
+    <a href="https://codeforces.com/profile/Loi_shadow1412" target="_blank">
+      <img src="https://img.shields.io/badge/DUNGEON_RAID-Codeforces-00B4D8?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0D1117" alt="Codeforces" />
     </a>
     &nbsp;
     <a href="https://github.com/Harilowji" target="_blank">
@@ -94,8 +94,8 @@
   <!-- Shadow Visitors Counter (Shadow Monarch Purple Theme) -->
   <img src="https://komarev.com/ghpvc/?username=Harilowji&color=7B2CBF&style=for-the-badge&label=SHADOW+VISITORS" alt="Shadow Visitors Counter" />
   <br /><br />
-  <!-- GitHub Readme Stats (Auto-generated to .github/assets/stats.svg or Live API) -->
-  <img width="400px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Harilowji&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&bg_color=0D1117&title_color=A855F7&icon_color=00B4D8&text_color=E2E8F0" alt="GitHub Stats" />
+  <!-- GitHub Readme Stats (Generated to .github/assets/stats.svg via .github/workflows/grs.yml) -->
+  <img width="400px" src=".github/assets/stats.svg" alt="GitHub Stats" />
   <br />
   <!-- GitHub Streak Stats (Midnight-Purple theme like Andrew-Velox) -->
   <img height="170" src="https://streak-stats.demolab.com?user=Harilowji&count_private=true&theme=midnight-purple&hide_border=true&background=0D1117&ring=A855F7&fire=00B4D8&currStreakLabel=A855F7" alt="GitHub Streak" />
@@ -103,7 +103,6 @@
   <!-- Lowlighter Metrics Cards (Generated via .github/workflows/metrics.yml) -->
   <img width="400px" src=".github/assets/metrics-stats.svg" alt="Metrics Overview" />
   <img width="400px" src=".github/assets/metrics-repository.svg" alt="Featured Repositories Metrics" />
-  <img width="400px" src=".github/assets/metrics-activity.svg" alt="Recent Activity Metrics" />
 </p>
 
 <br clear="both" />
@@ -142,7 +141,7 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="40" height="40" alt="C++" />
+      <img src="https://skillicons.dev/icons?i=cpp" width="40" height="40" alt="C++" />
       <br /><sub><b>C++</b></sub>
     </td>
     <td align="center" width="96">
@@ -150,29 +149,29 @@
       <br /><sub><b>C</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="40" height="40" alt="C#" />
+      <img src="https://skillicons.dev/icons?i=cs" width="40" height="40" alt="C#" />
       <br /><sub><b>C#</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="40" height="40" alt="Python" />
+      <img src="https://skillicons.dev/icons?i=py" width="40" height="40" alt="Python" />
       <br /><sub><b>Python</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" width="40" height="40" alt="Java" />
+      <img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="Java" />
       <br /><sub><b>Java</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="40" height="40" alt="JavaScript" />
+      <img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript" />
       <br /><sub><b>JavaScript</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="40" height="40" alt="TypeScript" />
+      <img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="TypeScript" />
       <br /><sub><b>TypeScript</b></sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="40" height="40" alt="React" />
+      <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" />
       <br /><sub><b>React</b></sub>
     </td>
     <td align="center" width="96">
@@ -192,11 +191,11 @@
       <br /><sub><b>Tailwind</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="40" height="40" alt="MySQL" />
+      <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL" />
       <br /><sub><b>MySQL</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="40" height="40" alt="Docker" />
+      <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" />
       <br /><sub><b>Docker</b></sub>
     </td>
   </tr>
@@ -206,7 +205,7 @@
       <br /><sub><b>Git</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="40" height="40" alt="GitHub" />
+      <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" />
       <br /><sub><b>GitHub</b></sub>
     </td>
     <td align="center" width="96">
@@ -235,14 +234,14 @@
 <br />
 
 <!-- ===================================================================== -->
-<!--  COMPETITIVE PROGRAMMING / DUNGEON RAIDS (LEETCODE STATS)           -->
+<!--  COMPETITIVE PROGRAMMING / DUNGEON RAIDS (CODEFORCES STATS)         -->
 <!-- ===================================================================== -->
 
 <div align="center">
   <h2 align="center">⚔️ Competitive Programming & Dungeon Raids ⚔️</h2>
   <br />
-  <a href="https://leetcode.com/u/Harilowji" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/Harilowji?theme=dark&font=Geist%20Mono&ext=activity" alt="Harilowji LeetCode Stats" />
+  <a href="https://codeforces.com/profile/Loi_shadow1412" target="_blank">
+    <img src="https://codeforces-stats-vlx.vercel.app/api/card?username=Loi_shadow1412&v2&theme=dark" alt="Loi_shadow1412 Codeforces Stats" />
   </a>
 </div>
 
